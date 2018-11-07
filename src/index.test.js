@@ -1,7 +1,7 @@
 import {expect} from 'chai';
 import starWars from './index';
 
-describe('starwars-names', function() {
+describe('mangia-mangia', function() {
   describe('all', function() {
     it('should be an array of strings', function() {
       expect(starWars.all).to.satisfy(isArrayOfStrings);

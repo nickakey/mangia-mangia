@@ -1,5 +1,5 @@
 {
-  "name": "starwars-names",
+  "name": "mangia-mangia",
   "version": "0.0.0-semantically-released",
   "description": "Get random Star Wars names",
   "main": "dist/index.js",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kentcdodds/starwars-names.git"
+    "url": "https://github.com/nickakey/mangia-mangia.git"
   },
   "keywords": [
     "random",
@@ -35,12 +35,12 @@
     "dist",
     "README.md"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Nick Akey <nicktheflanders@gmail.com> ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/nickakey/mangia-mangia/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/nickakey/mangia-mangia#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
@@ -75,7 +75,6 @@
       "path": "node_modules/cz-conventional-changelog"
     }
   },
-  
   "babel": {
     "presets": [
       "es2015",
