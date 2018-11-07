@@ -2,6 +2,7 @@
 
 
 Get names of random italian food dishes
+Uses CodeCov and Travis CI
 
 ## Installation
 
