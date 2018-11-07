@@ -1,17 +1,7 @@
 # mangia-mangia
 
-[![travis build](https://img.shields.io/travis/kentcdodds/mangia-mangia.svg?style=flat-square)](https://travis-ci.org/kentcdodds/mangia-mangia)
-[![codecov coverage](https://img.shields.io/codecov/c/github/kentcdodds/mangia-mangia.svg?style=flat-square)](https://codecov.io/github/kentcdodds/mangia-mangia)
-[![version](https://img.shields.io/npm/v/mangia-mangia.svg?style=flat-square)](http://npm.im/mangia-mangia)
-[![downloads](https://img.shields.io/npm/dm/mangia-mangia.svg?style=flat-square)](http://npm-stat.com/charts.html?package=mangia-mangia&from=2015-08-01)
-[![MIT License](https://img.shields.io/npm/l/mangia-mangia.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=flat-square)](https://github.com/semantic-release/semantic-release)
 
-Get random names from Star Wars characters.
-
-<a href="https://app.codesponsor.io/link/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/mangia-mangia" rel="nofollow"><img src="https://app.codesponsor.io/embed/PKGFLnhDiFvsUA5P4kAXfiPs/kentcdodds/mangia-mangia.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
-
-![mangia-mangia](other/mangia-mangia.gif)
+Get names of random italian food dishes
 
 ## Installation
 
@@ -32,22 +22,12 @@ var threeRandomNames = names.random(3);
 
 ## Other
 
-This library was developed by [me](https://twitter.com/kentcdodds) as part of an
-[egghead.io](http://egghead.io/) series called "How to Write a JavaScript Library."
-
-I'm now also using it to give [a workshop](http://kcd.im/fem-oss) for
-[Frontend Masters](https://frontendmasters.com).
-
 ### Project Setup
 
 This project assumes you have [NodeJS v6](http://nodejs.org/) or greater installed. You should
 also have [npm v3](https://www.npmjs.com/) or greater installed as well (this comes packaged
 with Node 6). You'll also need a recent version of [git](https://git-scm.com/) installed
 as well.
-
-You may have come to this project from different varying sources. There are a
-different series of branches for each workshop/course I've done. To get started with
-the project, start with this:
 
 1. [Sign up](https://github.com/join) for a GitHub Account (if you don't already have one)
 2. [Fork](https://help.github.com/articles/fork-a-repo/) this repo

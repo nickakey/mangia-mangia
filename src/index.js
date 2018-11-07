@@ -1,10 +1,10 @@
 import uniqueRandomArray from 'unique-random-array';
-import starWarsNames from './mangia-mangia.json';
+import mangiaFoods from './mangia-mangia.json';
 
-const getRandomItem = uniqueRandomArray(starWarsNames);
+const getRandomItem = uniqueRandomArray(mangiaFoods);
 
 module.exports = {
-  all: starWarsNames,
+  all: mangiaFoods,
   random: random
 };
 
